@@ -21,5 +21,8 @@ This is *italic* and this is **BOLD**
 
 ## Uninstall
 
+>[!IMPORTANT]
+>This is a warning
+
 >[NOTE]
 >This is how you can make a note
